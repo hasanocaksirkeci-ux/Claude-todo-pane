@@ -1,0 +1,6 @@
+{
+  "name": "todo",
+  "version": "0.1.0",
+  "description": "A to-do pane the agent keeps itself; messages sent mid-turn land on it automatically.",
+  "types": "./types/index.d.ts"
+}
